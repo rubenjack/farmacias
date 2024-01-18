@@ -1,5 +1,5 @@
-PAIS  CIUDAD  DISTRITO
-PERU	Lima	SMP
-PERU	Lima	los Olivos
-PERU	Lima	Villa el Salvador
-PERU	ICA	ICA
+PAIS  CIUDAD  DISTRITO  CODIGO
+PERU	Lima	SMP  1
+PERU	Lima	los Olivos  2
+PERU	Lima	Villa el Salvador  3
+PERU	ICA	ICA  4
