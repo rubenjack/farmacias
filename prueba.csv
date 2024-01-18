@@ -1,4 +1,5 @@
-PERU, Lima, SMP
-PERU, Lima, Los Olivos
-PERU, Lima, Villa el Salvador
-PERU, ICA, ICA
+PAIS,CIUDAD,DISTRITO,CODIGO
+PERU,Lima,SMP,1
+PERU,Lima,Los Olivos,2
+PERU,Lima,Villa el Salvador,3
+PERU,ICA,ICA,4
